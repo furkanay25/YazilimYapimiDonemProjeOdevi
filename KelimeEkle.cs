@@ -15,7 +15,7 @@ namespace YazılımYapımıProjeÖdevi
 {
     public partial class KelimeEkle : MaterialSkin.Controls.MaterialForm
     {
-        public KelimeEkle()
+        public KelimeEkle()//
         {
             InitializeComponent();
             MaterialSkin.MaterialSkinManager skinManager = MaterialSkin.MaterialSkinManager.Instance;
