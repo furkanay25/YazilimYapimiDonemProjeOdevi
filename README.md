@@ -15,8 +15,8 @@ Veritabanı kullanılarak kullanıcıya kelime öğrenmesi için kullanıma uygu
 <br>-İstatistik sonucundan yılı seçerek hangi ayda kaç tane öğrendiğini gözlemleyebilir.
 
 # Ekran Görüntüleri
-![all text](https://drive.google.com/open?id=1Wvk5fvJNZmnUeu5wvaNxzJPrMIeEzUNb)
-![all text](https://drive.google.com/open?id=1xLoo5Hi47u7goURFplU9p9h2xciXjK_9)
-![all text](https://drive.google.com/open?id=1nS9WsdpoBu6PJxaB8YYGM6BC1UfhR7n2)
-![all text](https://drive.google.com/open?id=14Hv030KigWfXjwJ3-soLB2mqgEiZVe7c)
-![all text](https://drive.google.com/open?id=1d8QXVNkmn2oSuXWAgAM9uQg8r0tBNEjP)
+![alltext](https://drive.google.com/open?id=1Wvk5fvJNZmnUeu5wvaNxzJPrMIeEzUNb)
+![alltext](https://drive.google.com/open?id=1xLoo5Hi47u7goURFplU9p9h2xciXjK_9)
+![alltext](https://drive.google.com/open?id=1nS9WsdpoBu6PJxaB8YYGM6BC1UfhR7n2)
+![alltext](https://drive.google.com/open?id=14Hv030KigWfXjwJ3-soLB2mqgEiZVe7c)
+![alltext](https://drive.google.com/open?id=1d8QXVNkmn2oSuXWAgAM9uQg8r0tBNEjP)
