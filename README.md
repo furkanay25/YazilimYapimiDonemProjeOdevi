@@ -15,4 +15,4 @@ Veritabanı kullanılarak kullanıcıya kelime öğrenmesi için kullanıma uygu
 <br>-İstatistik sonucundan yılı seçerek hangi ayda kaç tane öğrendiğini gözlemleyebilir.
 
 # Ekran Görüntüleri
-![all text](https://i.hizliresim.com/yGdkka.png)
+![alt text](https://github.com/yusufozgul/Vocabulary-Learning-App/blob/master/SS/SS0.png)  
