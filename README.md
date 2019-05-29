@@ -5,7 +5,7 @@ Yazılım yapımı proje ödevi için C# programlama dilinde ingilizce kelime ö
 Veritabanı kullanılarak kullanıcıya kelime öğrenmesi için kullanıma uygun  öğrenme ve bu öğrenme izlenimlerini takip etmeye yardımcı proje geliştirme
 
 # Projenin İçeriği
->br<-Kullanıcıya öğrenmek istediği kelimeler sorulur.
+<br>-Kullanıcıya öğrenmek istediği kelimeler sorulur.
 >br<-Her kelimeyi öğrenmek zorunda olmayıp öğrenmek istediği kelimeleri programda gördükten sonra sadece görmüş olduğu kelimeler sorulur.
 >br<-Öğrenme aşamasında bu kelimeler kullanıcıya belli aralıklarla sorulur.
 >br<-Veritabanında 5 farklı kelime türü içermektedir.
